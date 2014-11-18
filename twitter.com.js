@@ -6,4 +6,4 @@ var MATwitter = {
 	
 };
 MATwitter.ui_changes();
-setInterval(MATwitter.ui_changes, 500);
+setTimeout(MATwitter.ui_changes, 500);
